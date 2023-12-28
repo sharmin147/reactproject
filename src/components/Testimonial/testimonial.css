@@ -1,0 +1,12 @@
+.testimonial-area .owl-carousel .owl-nav button.owl-prev, .testimonial-area .owl-carousel .owl-nav button.owl-next, .testimonial-area .owl-carousel button.owl-dot {
+    display: inline-block;
+    width: 30px;
+    height: 5px;
+    border-radius: 30px;
+    background: #b6b6b6;
+    margin: 0 5px;
+}
+
+.testimonial-area .owl-carousel button.owl-dot.active {
+    background: #fc9928;
+}
